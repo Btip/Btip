@@ -1,8 +1,8 @@
 **@Btip**  
 Currently using JS  
-Engineer for Atomic Fi. 
+Engineer for Atomic Fi  
 
-Reach me at: benson.tippetts@gmail.com
+Reach me at: benson.tippetts@gmail.com  
 
 ![](https://c.tenor.com/DjFVah-VzX0AAAAC/anime-studio-ghibli.gif)
 <!---
