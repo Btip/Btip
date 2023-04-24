@@ -1,6 +1,6 @@
 **@Btip**   
 Experience using Java, C++, SQL, JS, CSS, HTML   
-Engineering Apprentice at Atomic Fi -- Currently using JS   
+Currently looking for work!  
 
 Reach me at: benson.tippetts@gmail.com  
 
